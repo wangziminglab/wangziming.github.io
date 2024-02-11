@@ -8,6 +8,11 @@ redirect_from:
 
 
 ## 📚 Journals
+### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
+<ins>**Ziming Wang**</ins>.  
+*The 36th Chinese Control and Decision Conference* (CCDC 2024).  
+Early accepted.
+
 ### Neural-Network-Based Controller Algorithms for Full State-constrained Nonlinear Systems: The Event Triggered Case
 <ins>**Ziming Wang**</ins>, Hui Wang\*, Xin Wang, Ning Pang and Quan Shi. (2023.11)  
 *Cognitive Computation* (IF=5.4).  
@@ -47,10 +52,5 @@ State: under review
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics* (IF=5.6).  
-State: under review
-
-### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
-<ins>**Ziming Wang**</ins>.  
-*The 36th Chinese Control and Decision Conference* (CCDC 2024).  
 State: under review
 
