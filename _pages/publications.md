@@ -50,5 +50,5 @@ State: under review
 
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance  
 <ins>**Ziming Wang**</ins>.  
-*The 36th Chinese Control and Decision Conference* (CCDC 20241).  
+*The 36th Chinese Control and Decision Conference* (CCDC 2024).  
 Early accepted.
