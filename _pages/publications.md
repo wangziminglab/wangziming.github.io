@@ -52,4 +52,3 @@ State: under review
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics* (IF=5.6).  
 State: under review
-
