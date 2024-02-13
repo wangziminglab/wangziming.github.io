@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Event-Triggered Adaptive Neural Control for Full State-constrained Nonlinear Systems With Unknown Disturbances （06/2022-06/2023） Research Group Leader 
-**Project Source**: Project for Innovation Training Program for College Students (National-level Project) 111 
+**Project Source**: Project for Innovation Training Program for College Students (National-level Project)  
 
 **Project Information**: 
 1. This project aims to develop an event-sampling immune adaptive controller based on a hybrid event-triggering mechanism to resist unknown external dynamic disturbances and tries to apply the theoretical achievements to practical control scenarios such as UAV swarms or intelligent cart swarms.
