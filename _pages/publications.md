@@ -48,7 +48,7 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics* (IF=5.6).  
 State: under review
 
-### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance
-<ins>**Ziming Wang**</ins>. (2024.02)  
+### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance  
+<ins>**Ziming Wang**</ins>.  
 *The 36th Chinese Control and Decision Conference* (CCDC 2024).  
-Early acceptedd.
+Early accepted.
