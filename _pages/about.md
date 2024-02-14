@@ -26,6 +26,7 @@ Research Interests
 ------
 - Adaptive control
 - Event-triggered control
+- Multiagent system
 - Nonlinear control system
 - Reinforcement learning
 
