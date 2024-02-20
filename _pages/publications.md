@@ -40,8 +40,8 @@ State: under review
 
 ### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
 Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.  
-*Applied Mathematical Modelling* (IF=5.0).  
-State: undergoing review
+*Journal of the Franklin Institute* (IF=3.8).  
+State: under review
 
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
