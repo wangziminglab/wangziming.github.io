@@ -15,7 +15,7 @@ Early accepted.
 ### [Event-Triggered Adaptive Neural Control for Full State-Constrained Nonlinear Systems with Unknown Disturbances](https://link.springer.com/article/10.1007/s12559-023-10223-7)
 <ins>**Ziming Wang**</ins>, Hui Wang\*, Xin Wang, Ning Pang and Quan Shi. (2023.11)  
 *Cognitive Computation* (IF=5.4).  
-Early accepted.  
+DOI:10.1007/s12559-023-10223-7
 
 ### [Adaptive Fixed-Time Control for Full State-Constrained Nonlinear Systems: The Switched-Self-Triggered Case](https://ieeexplore.ieee.org/document/10233088)  
 <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang. (2023.08)  
