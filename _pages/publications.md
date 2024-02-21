@@ -12,7 +12,7 @@ redirect_from:
 *The 36th Chinese Control and Decision Conference* (CCDC 2024).  
 Early accepted.  
 
-### Neural-Network-Based Controller Algorithms for Full State-constrained Nonlinear Systems: The Event Triggered Case
+### [Event-Triggered Adaptive Neural Control for Full State-Constrained Nonlinear Systems with Unknown Disturbances](https://link.springer.com/article/10.1007/s12559-023-10223-7)
 <ins>**Ziming Wang**</ins>, Hui Wang\*, Xin Wang, Ning Pang and Quan Shi. (2023.11)  
 *Cognitive Computation* (IF=5.4).  
 Early accepted.  
