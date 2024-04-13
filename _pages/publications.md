@@ -38,6 +38,11 @@ Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Hua
 *IEEE Transactions on Control of Network Systems* (IF=4.2).  
 State: under review
 
+### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
+Wang Ling, <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
+*Transactions on Signal and Information Processing over Networks* (IF=3.2).  
+State: under review
+
 ### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
 Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.  
 *Journal of the Franklin Institute* (IF=3.8).  
