@@ -43,14 +43,14 @@ Wang Ling, <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.
 *Transactions on Signal and Information Processing over Networks* (IF=3.2).  
 State: under review
 
-### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
-Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.  
-*Journal of the Franklin Institute* (IF=3.8).  
-State: under review
-
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
 *Nonlinear Dynamics* (IF=5.6).  
+State: under review
+
+### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
+Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.  
+*Journal of the Franklin Institute* (IF=3.8).  
 State: under review
 
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
