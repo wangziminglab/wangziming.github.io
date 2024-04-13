@@ -40,7 +40,7 @@ State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
 Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
-*Transactions on Signal and Information Processing over Networks* (IF=3.2).  
+*IEEE Transactions on Signal and Information Processing over Networks* (IF=3.2).  
 State: under review
 
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
