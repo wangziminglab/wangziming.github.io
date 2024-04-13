@@ -39,7 +39,7 @@ Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Hua
 State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
-Wang Ling, <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
+Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
 *Transactions on Signal and Information Processing over Networks* (IF=3.2).  
 State: under review
 
