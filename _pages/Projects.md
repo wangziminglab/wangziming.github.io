@@ -11,7 +11,9 @@ redirect_from:
 
 **Project Information**: 
 1. Group project: The online delivery ecosystem.
-2. Individual project: Mixed traffic flow with two-class vehicles. (Topic 1: Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance)(Topic 2: Event-triggered Adaptive Platooning Control for Autonomous Vehicles)
+2. Individual project: Mixed traffic flow with two-class vehicles.
+   (Topic 1: Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance)
+   (Topic 2: Event-triggered Adaptive Platooning Control for Autonomous Vehicles)
 3. Full postgraduate studentship (PGS) award with **180,000 RMB/year**.
 
 ## Event-Triggered Adaptive Neural Control for Full State-constrained Nonlinear Systems With Unknown Disturbances （06/2022-06/2023） Research Group Leader 
