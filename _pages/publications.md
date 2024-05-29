@@ -6,7 +6,7 @@ redirect_from:
   - /publications
 ---
 
-## 📚 Journals  
+## 📚 Journals and Conferences
 ### Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance  
 <ins>**Ziming Wang**</ins>. (2024.02)  
 *The 36th Chinese Control and Decision Conference* (CCDC 2024).  
@@ -46,11 +46,6 @@ State: under review
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
 *Nonlinear Dynamics* (IF=5.6).  
-State: under review
-
-### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems With Unknown States
-Kewei Zhou, Xin Wang\*, Zhihao Chen and <ins>**Ziming Wang**</ins>.  
-*Journal of the Franklin Institute* (IF=3.8).  
 State: under review
 
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
