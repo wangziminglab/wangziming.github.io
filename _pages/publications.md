@@ -33,7 +33,7 @@ Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2022.04)
 DOI:10.1109/TCSII.2022.3164572.
 
 ### [Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent Systems with Unknown States and Disturbances](https://ieeexplore.ieee.org/document/9662272)  
-Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)  
+Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)    
 *IEEE Transactions on Neural Networks and Learning Systems* (IF=10.4).  
 DOI:10.1109/TNNLS.2021.3133440
 
