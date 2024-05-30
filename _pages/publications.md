@@ -48,11 +48,6 @@ Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.
 *IEEE Transactions on Cognitive and Developmental Systems* (IF=5.0).  
 State: under review
 
-### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
-Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
-*Nonlinear Dynamics* (IF=5.6).  
-State: under review
-
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics* (IF=5.6).  
