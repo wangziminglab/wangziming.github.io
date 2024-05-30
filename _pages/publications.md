@@ -23,7 +23,7 @@ DOI:10.1007/s12559-023-10223-7
 DOI:10.1109/TCSII.2023.3309400.
 
 ### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
-Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>. (2024.05) 
+Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>. (2024.05)   
 *Nonlinear Dynamics* (IF=5.6).  
 Early accepted. 
 
