@@ -17,10 +17,12 @@ Education
 ------
 - 2019.09-2023.06  
 >- Bachelor in Southwest University (SWU)   
->- Major in Electronic Information Engineering  
+>- Major in Electronic Information Engineering
+>- Supervised by [Prof. Xin Wang](http://ceie.swu.edu.cn/info/1114/4001.htm).
 - 2023.09-present  
 >- MPhil in the Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)
 >- Major in Robotics and Autonomous Systems
+>- Supervised by [Prof. Huan Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=333).
 
 Research Interests
 ------
