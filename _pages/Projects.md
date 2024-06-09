@@ -6,7 +6,7 @@ redirect_from:
   - /Projects
 ---
 
-## Red Bird MPhil Project  （09/2023-06/2025）
+## HKUST(GZ) Red Bird MPhil Project  （09/2023-06/2025）
 **Project Source**: The Hong Kong University of Science and Technology (Guangzhou)
 
 **Project Information**: 
