@@ -27,7 +27,7 @@ DOI:10.1109/TCSII.2023.3309400.
 ### [Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults](https://link.springer.com/article/10.1007/s11071-024-09843-x)
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>. (2024.05)   
 *Nonlinear Dynamics* (IF=5.6).  
-Early accepted. 
+DOI:10.1007/s11071-024-09843-x
 
 ### [Event-Triggered Adaptive Control of Nonlinear Systems with Dynamic Uncertainties: The Switching Threshold Case](https://ieeexplore.ieee.org/document/9748882)  
 Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2022.04)   
