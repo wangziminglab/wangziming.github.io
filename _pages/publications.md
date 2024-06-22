@@ -24,7 +24,7 @@ DOI:10.1109/TCSII.2023.3309400.
 
 —— —— —— ( $\uparrow$ First auther, $\downarrow$ Co-auther ) —— —— ——
 
-### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults
+### [Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults](https://link.springer.com/article/10.1007/s11071-024-09843-x)
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>. (2024.05)   
 *Nonlinear Dynamics* (IF=5.6).  
 Early accepted. 
