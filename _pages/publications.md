@@ -47,7 +47,7 @@ State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
 Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
-*IEEE Transactions on Cognitive and Developmental Systems* (IF=5.0).  
+*IEEE Transactions on Industrial Cyber-Physical Systems* (IF=5.0).  
 State: under review
 
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
