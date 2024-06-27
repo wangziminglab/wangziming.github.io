@@ -50,6 +50,11 @@ Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.
 *IEEE Transactions on Industrial Cyber-Physical Systems*.  
 State: under review
 
+### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
+Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*.  
+*Cognitive Computation*.  
+State: under review
+
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics*.  
