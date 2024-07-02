@@ -51,7 +51,7 @@ Ling Wang , <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.
 State: under review
 
 ### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
-Ling Wang , <ins>**Ziming Wang**\*</ins>, Xin Wang.  
+Ling Wang , <ins>**Ziming Wang**\*</ins>, Xin Wang and Ning Pang.  
 *Cognitive Computation*.  
 State: under review
 
