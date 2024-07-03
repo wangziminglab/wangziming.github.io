@@ -55,12 +55,12 @@ Ling Wang, <ins>**Ziming Wang**\*</ins>, Xin Wang and Ning Pang.
 *Cognitive Computation*.  
 State: under review
 
-### Observer-Based Event-Triggered Neural Control for Uncertain Nonlinear Multiagent Systems
-Kewei Zhou, <ins>**Ziming Wang**\*</ins>, Zhihao Chen and Xin Wang.  
-*Mathematics*.  
-State: under review
-
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics*.  
 State: under review  
+
+### Observer-Based Event-Triggered Neural Control for Uncertain Nonlinear Multiagent Systems
+Kewei Zhou, <ins>**Ziming Wang**\*</ins>, Zhihao Chen and Xin Wang.  
+*Mathematics*.  
+State: under review
