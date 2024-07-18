@@ -60,6 +60,11 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics*.  
 State: under review  
 
+### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with Prescribced Performace
+Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
+*Nonlinear Dynamics*.  
+State: under review  
+
 ### Observer-Based Event-Triggered Neural Control for Uncertain Nonlinear Multiagent Systems
 Kewei Zhou, <ins>**Ziming Wang**\*</ins>, Zhihao Chen and Xin Wang.  
 *Mathematics*.  
