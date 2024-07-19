@@ -9,7 +9,7 @@ redirect_from:
 ## 📚 Journals and Conferences
 ### [Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance](https://ieeexplore.ieee.org/document/10587651)  
 <ins>**Ziming Wang**</ins>. (2024.02)  
-*2024 36th Chinese Control and Decision Conference (CCDC)*.  
+*36th Chinese Control and Decision Conference (2024 CCDC)*.  
 DOI:10.1109/CCDC62350.2024.10587651
 
 ### [Event-Triggered Adaptive Neural Control for Full State-Constrained Nonlinear Systems with Unknown Disturbances](https://link.springer.com/article/10.1007/s12559-023-10223-7)
