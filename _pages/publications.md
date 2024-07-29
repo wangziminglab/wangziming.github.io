@@ -47,7 +47,7 @@ State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
 Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
-*IEEE Transactions on Industrial Cyber-Physical Systems*.  
+*Neurocomputing*.  
 State: under review
 
 ### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
