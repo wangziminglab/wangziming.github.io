@@ -60,7 +60,7 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics*.  
 State: under review  
 
-### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with Prescribced Performace
+### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with MonotoneTube Performace Boundaries
 Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
 *Nonlinear Dynamics*.  
 State: under review  
