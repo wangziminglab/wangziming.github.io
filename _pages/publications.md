@@ -43,6 +43,11 @@ DOI:10.1109/TNNLS.2021.3133440
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
+State: under review  
+
+### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
+Luyu Meng, Xin Wang\*, <ins>**Ziming Wang**</ins>.  
+*IEEE Transactions on Circuits and Systems II: Express Briefs*.  
 State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
