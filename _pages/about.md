@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ------
-Ziming Wang is a master of philosophy postgraduate student in the Hong Kong University of Science and Technology (Guangzhou). His research interests lie in a wide range of topics related to control theory, multiagent system and nonlinear system. He has published in refereed journals, such as IEEE TNNLS, IEEE TCASII, Nonlinear Dynamics and Cognitive Computation. He is presently supervised by [Prof. Yu Huan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=333).
+Ziming Wang is a master of philosophy postgraduate student in the Hong Kong University of Science and Technology (Guangzhou). His research interests lie in a wide range of topics related to control theory, multiagent system and nonlinear system. He has published in refereed journals, such as IEEE TNNLS, IEEE TCASII, Nonlinear Dynamics and Cognitive Computation. He is presently supervised by [Prof. Yu Huan](https://amslab.org/).
 
 Education
 ------
@@ -22,7 +22,7 @@ Education
 - 2023.09-present  
 >- MPhil in the Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ)
 >- Major in Robotics and Autonomous Systems
->- Supervised by [Prof. Huan Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=333)
+>- Supervised by [Prof. Huan Yu](https://amslab.org/)
 
 Research Interests
 ------
