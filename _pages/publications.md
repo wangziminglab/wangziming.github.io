@@ -51,12 +51,12 @@ State: under review
 
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
 Luyu Meng, Xin Wang\*, <ins>**Ziming Wang**</ins>.  
-*IEEE Transactions on Circuits and Systems II: Express Briefs*.  
+*IEEE Transactions on Neural Networks and Learning Systems*.  
 State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
-Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\*, Wei Zhang and Huaqing Li.  
-*Neurocomputing*.  
+Ling Wang, <ins>**Ziming Wang**\*</ins>, Xin Wang.  
+*Cognitive Computation*.  
 State: under review
 
 ### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
