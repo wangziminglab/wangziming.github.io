@@ -23,7 +23,7 @@ DOI:10.1007/s12559-023-10223-7
 DOI:10.1109/TCSII.2023.3309400.
 
 —— —— —— ( $\uparrow$ First auther, $\downarrow$ Co-auther ) —— —— ——
-### Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults  
+### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States    
 Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.10)  
 *3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
 Early accept.
@@ -39,7 +39,7 @@ Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2022.04)
 DOI:10.1109/TCSII.2022.3164572.
 
 ### [Observer-Based Event-Triggered Adaptive Control for Nonlinear Multiagent Systems with Unknown States and Disturbances](https://ieeexplore.ieee.org/document/9662272)  
-Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)    
+Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)  
 *IEEE Transactions on Neural Networks and Learning Systems*.  
 DOI:10.1109/TNNLS.2021.3133440
 
@@ -50,12 +50,12 @@ Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Hua
 State: under review  
 
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
-Luyu Meng, Xin Wang\*, <ins>**Ziming Wang**</ins>.  
+Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
 *IEEE Transactions on Neural Networks and Learning Systems*.  
 State: under review
 
 ### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
-Ling Wang, <ins>**Ziming Wang**\*</ins>, Xin Wang.  
+Ling Wang, <ins>**Ziming Wang**\*</ins> and Xin Wang.  
 *Cognitive Computation*.  
 State: under review
 
