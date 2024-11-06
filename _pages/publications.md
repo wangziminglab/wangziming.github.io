@@ -47,7 +47,12 @@ DOI:10.1109/TNNLS.2021.3133440
 ### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
-State: under review  
+State: revised and resubmitted  
+
+### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with MonotoneTube Performace Boundaries
+Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
+*International Journal of Control*.  
+State: revised and resubmitted  
 
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
 Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
@@ -69,7 +74,4 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics*.  
 State: under review  
 
-### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with MonotoneTube Performace Boundaries
-Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
-*Nonlinear Dynamics*.  
-State: under review  
+
