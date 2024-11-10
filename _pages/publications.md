@@ -74,7 +74,7 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics*.  
 State: under review  
 
-### Event-Triggered Swarm Control for Autonomous Detection and Targeted Treatment of Membrane Lesions using Microrobots
+### Event-Triggered Distributed Coverage Control for Autonomous Detection and Target Treatment of Membrane Lesions by Microrobot Swarms
 Yun Gao, Hao Gao, <ins>**Ziming Wang**</ins> and Yiding Ji\*.  
 *23rd European Control Conference (2025 ECC)*.  
 State: under review
