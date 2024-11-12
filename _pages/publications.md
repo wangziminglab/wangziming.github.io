@@ -61,7 +61,7 @@ State: under review
 
 ### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
 Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.  
-*IEEE Transactions on Industrial Informatics*.  
+*IEEE Transactions on Automation Science and Engineering*.  
 State: under review
 
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
