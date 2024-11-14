@@ -54,7 +54,7 @@ Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.
 *International Journal of Control*.  
 State: revised and resubmitted  
 
-### Hybrid Event-Triggered Neuro-Adaptive Optimized Control for Stochastic Nonlinear Systems With State Constraints and Non-Affine Nonlinear Faults
+### Neuro-Adaptive Hybrid Event-Triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-Affine Fault Dynamics
 Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
 *IEEE Transactions on Circuits and Systems I: Regular Papers*.  
 State: under review
