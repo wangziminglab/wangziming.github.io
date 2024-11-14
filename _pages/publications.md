@@ -56,7 +56,6 @@ State: revised and resubmitted
 
 ### Neuro-Adaptive Hybrid Event-Triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-Affine Fault Dynamics
 Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
-#IEEE Transactions on Signal and Information Processing over Networks
 *IEEE Transactions on Circuits and Systems I: Regular Papers*.  
 State: under review
 
@@ -78,4 +77,4 @@ State: under review
 ### Event-Triggered Distributed Coverage Control for Autonomous Detection and Target Treatment of Membrane Lesions by Microrobot Swarms
 Yun Gao, Hao Gao, <ins>**Ziming Wang**\*</ins> and Yiding Ji.  
 *23rd European Control Conference (2025 ECC)*.  
-State: under review
+State: under review  
