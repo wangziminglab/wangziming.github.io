@@ -64,6 +64,11 @@ Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.
 *IEEE Transactions on Automation Science and Engineering*.  
 State: under review
 
+### Learning-Based Fault-Tolerant Fixed-time Optimal Control for Autonomous Underwater Vehicle under DoS Attack
+Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
+*IEEE Transactions on Artificial Intelligence*.  
+State: under review
+
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
 Luyu Meng, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
 *Chaos, Solitons & Fractals*.  
