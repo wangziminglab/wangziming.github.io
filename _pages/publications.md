@@ -78,3 +78,9 @@ State: under review
 Yun Gao, Hao Gao, <ins>**Ziming Wang**\*</ins> and Yiding Ji.  
 *23rd European Control Conference (2025 ECC)*.  
 State: under review  
+
+### Fixed-relative-switch strategies for learning based event-triggered control of nonlinear multiagent systems
+<ins>**Ziming Wang**\*</ins>, Yun Gao, Apostolos I. Rikos, Xin Wang and Yiding Ji.  
+*7th Annual Learning for Dynamics & Control Conference (2025 L4DC)*.  
+State: under review  
+
