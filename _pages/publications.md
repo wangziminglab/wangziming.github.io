@@ -71,7 +71,7 @@ State: under review
 
 ### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
 Luyu Meng, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
-*Chaos, Solitons & Fractals*.  
+*Cognitive Computation*.  
 State: under review
 
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
