@@ -44,17 +44,17 @@ Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)
 DOI:10.1109/TNNLS.2021.3133440
 
 ## 🍀 Journals and Conferences under Review
-### Dynamic Event-Triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-Mode Disturbance Rejection Method
+### Dynamic Event-triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
 State: revised and resubmitted  
 
-### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-Feedback Nonlinear Systems with MonotoneTube Performace Boundaries
+### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries
 Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
 *International Journal of Control*.  
 State: revised and resubmitted  
 
-### Neuro-Adaptive Hybrid Event-Triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-Affine Fault Dynamics
+### Neuro-adaptive Hybrid Event-triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-affine Fault Dynamics
 Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
 *IEEE Transactions on Circuits and Systems I: Regular Papers*.  
 State: under review
@@ -64,12 +64,12 @@ Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.
 *IEEE Transactions on Automation Science and Engineering*.  
 State: under review
 
-### Learning-Based Fault-Tolerant Fixed-time Optimal Control for Autonomous Underwater Vehicle under DoS Attack
+### Learning-based Fault-tolerant Fixed-time Optimal Control for Autonomous Underwater Vehicle under DoS Attack
 Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
 *IEEE Transactions on Artificial Intelligence*.  
 State: under review
 
-### Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
+### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
 Luyu Meng, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
 *Cognitive Computation*.  
 State: under review
@@ -79,12 +79,12 @@ Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.
 *Nonlinear Dynamics*.  
 State: under review  
 
-### Event-Triggered Distributed Coverage Control for Autonomous Detection and Target Treatment of Membrane Lesions by Microrobot Swarms
+### Event-triggered Distributed Coverage Control for Autonomous Detection and Target Treatment of Membrane Lesions by Microrobot Swarms
 Yun Gao, Hao Gao, <ins>**Ziming Wang**\*</ins> and Yiding Ji.  
 *23rd European Control Conference (2025 ECC)*.  
 State: under review  
 
-### Fixed-relative-switch strategies for learning based event-triggered control of nonlinear multiagent systems
+### Fixed-relative-switch Strategies for Learning Based Event-triggered Control of Nonlinear Multiagent Systems
 <ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Xin Wang and Yiding Ji\*.  
 *7th Annual Learning for Dynamics & Control Conference (2025 L4DC)*.  
 State: under review  
