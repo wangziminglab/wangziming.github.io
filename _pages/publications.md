@@ -70,7 +70,7 @@ Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.
 State: under review
 
 ### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
-Luyu Meng, Xin Wang and <ins>**Ziming Wang**\*</ins>.  
+Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
 *Cognitive Computation*.  
 State: under review
 
