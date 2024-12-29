@@ -23,6 +23,11 @@ DOI:10.1007/s12559-023-10223-7
 DOI:10.1109/TCSII.2023.3309400.
 
 —— —— —— ( $\uparrow$ First auther, $\downarrow$ Co-auther ) —— —— ——
+### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries
+Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang. (2024.12)   
+*International Journal of Control*.  
+Early accept. 
+
 ### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States    
 Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.10)  
 *3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
@@ -47,11 +52,6 @@ DOI:10.1109/TNNLS.2021.3133440
 ### Dynamic Event-triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
-State: revised and resubmitted  
-
-### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries
-Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
-*International Journal of Control*.  
 State: revised and resubmitted  
 
 ### Neuro-adaptive Hybrid Event-triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-affine Fault Dynamics
