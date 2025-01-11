@@ -27,10 +27,9 @@ Education
 
 Research Interests
 ------
-- Adaptive control
+- Control theory
+- Intelligent transportation
 - Event-triggered control
-- Multiagent system
-- Nonlinear control system
 - Reinforcement learning
 
 Contact Emails
