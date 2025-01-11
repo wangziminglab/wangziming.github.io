@@ -29,7 +29,7 @@ Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang. (2025.01)
 Early accept. 
 
 ### [Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States](https://arxiv.org/abs/2501.00523)    
-Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.10)  
+Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.12)  
 *3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
 Early accept.
 
