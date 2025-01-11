@@ -24,7 +24,7 @@ DOI:10.1109/TCSII.2023.3309400.
 
 —— —— —— ( $\uparrow$ First auther, $\downarrow$ Co-auther ) —— —— ——
 ### [Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries](https://www.tandfonline.com/doi/full/10.1080/00207179.2024.2449132)  
-Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang. (2024.12)   
+Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang. (2025.01)   
 *International Journal of Control*.  
 Early accept. 
 
