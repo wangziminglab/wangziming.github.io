@@ -23,12 +23,12 @@ DOI:10.1007/s12559-023-10223-7
 DOI:10.1109/TCSII.2023.3309400.
 
 —— —— —— ( $\uparrow$ First auther, $\downarrow$ Co-auther ) —— —— ——
-### Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries
+### [Optimized Backstepping Tracking Control Using Reinforcement Learning for Strict-feedback Nonlinear Systems with MonotoneTube Performace Boundaries](https://www.tandfonline.com/doi/full/10.1080/00207179.2024.2449132)  
 Gengning Zhang, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang. (2024.12)   
 *International Journal of Control*.  
 Early accept. 
 
-### Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States    
+### [Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States](https://arxiv.org/abs/2501.00523)    
 Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.10)  
 *3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
 Early accept.
