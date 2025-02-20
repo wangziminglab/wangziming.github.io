@@ -54,19 +54,19 @@ Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Hua
 *IEEE Transactions on Control of Network Systems*.  
 State: revised and resubmitted  
 
-### Neuro-adaptive Hybrid Event-triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-affine Fault Dynamics
-Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
-*IEEE Transactions on Circuits and Systems I: Regular Papers*.  
-State: under review
-
-### On Optimized Cooperative Control for Stochastic Nonlinear Multiagent Systems Using Switched-triggered Input
-Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.  
-*IEEE Transactions on Automation Science and Engineering*.  
-State: under review
-
 ### Learning-based Fault-tolerant Fixed-time Optimal Control for Autonomous Underwater Vehicle under DoS Attack
 Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
 *IEEE Transactions on Artificial Intelligence*.  
+State: revised and resubmitted 
+
+### Optimized Leader-following Consensus Control for Stochastic Multiagent Systems via Switched-triggered Input
+Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.  
+*IEEE Transactions on Systems, Man, and Cybernetics*.  
+State: under review
+
+### Neuro-adaptive Hybrid Event-triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-affine Fault Dynamics
+Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
+*IEEE Transactions on Circuits and Systems I: Regular Papers*.  
 State: under review
 
 ### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
@@ -87,5 +87,10 @@ State: under review
 ### Fixed-relative-switch Strategies for Learning Based Event-triggered Control of Nonlinear Multiagent Systems
 <ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Xin Wang and Yiding Ji\*.  
 *7th Annual Learning for Dynamics & Control Conference (2025 L4DC)*.  
+State: under review  
+
+### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
+<ins>**Ziming Wang**</ins>, Shiyuan Piao, Yiding Ji\*, Xin Wang and Fugee Tsung\*.  
+*IEEE 21st International Conference on Automation Science and Engineering (2025 CASE)*.  
 State: under review  
 
