@@ -86,7 +86,7 @@ State: under review
 
 ### Fixed-relative-switch Strategies for Learning Based Event-triggered Control of Nonlinear Multiagent Systems
 <ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Xin Wang and Yiding Ji\*.  
-*IEEE 19th International Conference on Control & Automation*.  
+*IEEE 19th International Conference on Control & Automation (2025 ICCA)*.  
 State: under review  
 
 ### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
