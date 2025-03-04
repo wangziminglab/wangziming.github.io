@@ -30,7 +30,7 @@ Early accept.
 
 ### [Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States](https://arxiv.org/abs/2501.00523)    
 Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.12)  
-*3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
+*IEEE 3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
 Early accept.
 
 ### [Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults](https://link.springer.com/article/10.1007/s11071-024-09843-x)
@@ -86,7 +86,7 @@ State: under review
 
 ### Fixed-relative-switch Strategies for Learning Based Event-triggered Control of Nonlinear Multiagent Systems
 <ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Xin Wang and Yiding Ji\*.  
-*7th Annual Learning for Dynamics & Control Conference (2025 L4DC)*.  
+*IEEE 19th International Conference on Control & Automation*.  
 State: under review  
 
 ### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
