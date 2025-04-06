@@ -10,7 +10,7 @@ redirect_from:
 ### Fixed-Relative-Switched Threshold Strategies for Consensus Tracking Control of Nonlinear Multiagent Systems
 <ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Ning Pang and Yiding Ji\*.  
 *IEEE 19th International Conference on Control & Automation (2025 ICCA)*.  
-State: Early accepted.
+Early accepted.
 
 ### [Hybrid Event-triggered Control of Nonlinear System with Full State Constraints and Disturbance](https://ieeexplore.ieee.org/document/10587651)  
 <ins>**Ziming Wang**</ins>. (2024.05)  
@@ -36,7 +36,7 @@ DOI:10.1080/00207179.2024.2449132.
 ### [Event-Triggered Observer-Based Fixed-Time Consensus Control for Uncertain Nonlinear Multiagent Systems with Unknown States](https://arxiv.org/abs/2501.00523)    
 Kewei Zhou, <ins>**Ziming Wang**</ins>, Zhihao Chen and Xin Wang\* (2024.12)  
 *IEEE 3rd International Conference on Neuromorphic Computing (2024 ICNC)*.  
-Early accept.
+Early accepted.
 
 ### [Event-Triggered Optimal Tracking Control for Strict-Feedback Nonlinear Systems With Non-Affine Nonlinear Faults](https://link.springer.com/article/10.1007/s11071-024-09843-x)
 Ling Wang, Xin Wang and <ins>**Ziming Wang**\*</ins>. (2024.05)   
