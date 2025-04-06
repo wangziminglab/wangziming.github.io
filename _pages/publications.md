@@ -8,7 +8,7 @@ redirect_from:
 
 ## 📚 Journals and Conferences
 ### Fixed-Relative-Switched Threshold Strategies for Consensus Tracking Control of Nonlinear Multiagent Systems
-<ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Ning Pang and Yiding Ji\*.  
+<ins>**Ziming Wang**</ins>, Yun Gao, Apostolos I. Rikos, Ning Pang and Yiding Ji\*.  (2025.04)  
 *IEEE 19th International Conference on Control & Automation (2025 ICCA)*.  
 Early accepted.
 
