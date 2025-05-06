@@ -86,7 +86,7 @@ State: under review
 
 ### Event-Triggered Control for Autonomous Detection and Treatment of Membrane Lesions using Microrobot Swarms
 Yun Gao, Hao Gao, <ins>**Ziming Wang**</ins>, Yang Shi and Yiding Ji\*.  
-*IEEE International Conference on Systems, Man, and Cybernetics (2025 SMC)*.  
+*IEEE 38th International Conference on Systems, Man, and Cybernetics (2025 SMC)*.  
 State: under review  
 
 ### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
