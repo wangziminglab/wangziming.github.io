@@ -30,7 +30,6 @@ Research Interests
 - Control theory
 - Intelligent transportation
 - Event-triggered control
-- Reinforcement learning
 
 Contact Emails
 ------
