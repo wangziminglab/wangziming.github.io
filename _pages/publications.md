@@ -53,44 +53,5 @@ Ning Pang, Xin Wang\*, and <ins>**Ziming Wang**</ins>. (2021.12)
 *IEEE Transactions on Neural Networks and Learning Systems*.  
 DOI:10.1109/TNNLS.2021.3133440.
 
-## 🍀 Journals and Conferences under Review
-### Learning-based Fault-tolerant Fixed-time Optimal Control for Autonomous Underwater Vehicle under DoS Attack
-Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.  
-*IEEE Transactions on Artificial Intelligence*.  
-State: revised and resubmitted 
 
-### Dynamic Event-triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-mode Disturbance Rejection Method
-Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
-*IEEE Transactions on Control of Network Systems*.  
-State: under review  
-
-### Optimized Leader-following Consensus Control for Stochastic Multiagent Systems via Switched-triggered Input
-Ling Wang, <ins>**Ziming Wang**</ins>, Xin Wang\* and Ning Pang.  
-*IEEE Transactions on Systems, Man, and Cybernetics*.  
-State: under review
-
-### Neuro-adaptive Hybrid Event-triggered Optimal Control for Stochastic Nonlinear Systems with State Constraints and Non-affine Fault Dynamics
-Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
-*IEEE Transactions on Circuits and Systems I: Regular Papers*.  
-State: under review
-
-### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
-Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
-*Cognitive Computation*.  
-State: under review
-
-### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
-Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
-*Nonlinear Dynamics*.  
-State: under review  
-
-### Event-Triggered Control for Autonomous Detection and Treatment of Membrane Lesions using Microrobot Swarms
-Yun Gao, Hao Gao, <ins>**Ziming Wang**</ins>, Yang Shi and Yiding Ji\*.  
-*IEEE 38th International Conference on Systems, Man, and Cybernetics (2025 SMC)*.  
-State: under review  
-
-### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
-<ins>**Ziming Wang**</ins>, Shiyuan Piao, Yiding Ji\*, Xin Wang and Fugee Tsung\*.  
-*IEEE 21st International Conference on Automation Science and Engineering (2025 CASE)*.  
-State: under review  
 
