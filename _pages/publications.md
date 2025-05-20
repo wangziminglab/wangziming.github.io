@@ -95,7 +95,7 @@ Yun Gao, Hao Gao, <ins>**Ziming Wang**</ins>, Yang Shi and Yiding Ji\*.
 State: under review  
 
 ### Effective Fixed-Time Control for Constrained Nonlinear System
-Chenglin Gong, <ins>**Ziming Wang**</ins>, Guan Jiang, Xin Wang and Yiding Ji\*.  
+Chenglin Gong, <ins>**Ziming Wang**</ins>, Guanxuan Jiang, Xin Wang and Yiding Ji\*.  
 *IEEE 11th International Conference on Control, Decision and Information Technologies (2025 CoDIT)*.  
 State: under review  
 
