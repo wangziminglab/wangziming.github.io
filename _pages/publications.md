@@ -59,6 +59,11 @@ Yiwei Liu, Xin Wang\*, <ins>**Ziming Wang**</ins> and Ning Pang.
 *IEEE Transactions on Artificial Intelligence*.  
 State: revised and resubmitted 
 
+### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
+Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
+*Cognitive Computation*.  
+State: revised and resubmitted
+
 ### Dynamic Event-triggered FTC for Constrained Nonlinear Multiagent Systems: Extended Sliding-mode Disturbance Rejection Method
 Ning Pang, Xin Wang\*, <ins>**Ziming Wang**</ins>, Weidong Zhang and Tingwen Huang.  
 *IEEE Transactions on Control of Network Systems*.  
@@ -74,19 +79,24 @@ Ling Wang, <ins>**Ziming Wang**</ins> and Xin Wang\*.
 *IEEE Transactions on Circuits and Systems I: Regular Papers*.  
 State: under review
 
-### Event-triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning  
-Luyu Meng, Xin Wang\* and <ins>**Ziming Wang**</ins>.  
-*Cognitive Computation*.  
-State: under review
-
 ### Event-triggered Optimal Consensus for Discrete-time Nonlinear Multiagent Systems with DoS attacks via Reinforcement Learning Method
 Yujie Liao, Xin Wang\*, <ins>**Ziming Wang**</ins> and Sen Zhang.  
 *Nonlinear Dynamics*.  
 State: under review  
 
+### Approximation-Free Full-State Error Constrained Distributed Formation Control with Unified Preset-time Performance
+Yiwei Liu, Ning Pang, <ins>**Ziming Wang**</ins> and Xin Wang\*.  
+*Communications in Nonlinear Science and Numerical Simulation*.  
+State: under review 
+
 ### Event-Triggered Control for Autonomous Detection and Treatment of Membrane Lesions using Microrobot Swarms
 Yun Gao, Hao Gao, <ins>**Ziming Wang**</ins>, Yang Shi and Yiding Ji\*.  
 *IEEE 38th International Conference on Systems, Man, and Cybernetics (2025 SMC)*.  
+State: under review  
+
+### Effective Fixed-Time Control for Constrained Nonlinear System
+Chenglin Gong, <ins>**Ziming Wang**</ins>, Guan Jiang, Xin Wang and Yiding Ji\*.  
+*IEEE 11th International Conference on Control, Decision and Information Technologies (2025 CoDIT)*.  
 State: under review  
 
 ### Efficient Dual-Observed Leader-Following Consensus Control for Multiagent Systems
